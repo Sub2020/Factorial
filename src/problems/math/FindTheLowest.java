@@ -27,6 +27,7 @@ public class FindTheLowest {
         // print smallest result 
         System.out.println(new FindTheLowest(A, B, m, n));
 
-        return m;
+        int m1 = m;
+
     }
 }
